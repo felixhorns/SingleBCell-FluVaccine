@@ -12,7 +12,7 @@ This repository contains Jupyter Notebooks that reproduce the figures shown in t
 Python 2.7 is the primary environment. Python 3.7 is used for one notebook, `Transcriptome.ipynb`, which requires Scanpy. Complete Python environments are specified by YAML files in the repository, which can be used to create an environment using Anaconda.
 
 ### Data
-Preprocessed data are used as inputs for these notebooks. They are available for download via Google Drive at XXX. The notebooks expect the data files to be found in the `data/` directory, so you can simply extract the archived data directly into `data/`.
+Preprocessed data are used as inputs for these notebooks. They are available for download via Google Drive at <http://bit.ly/2LuR4Bw>. The notebooks expect the data files to be found in the `data/` directory, so you can simply extract the archived data directly into `data/`.
 
 ## Contents
 
@@ -80,4 +80,4 @@ Graphical outputs are written by default to `notebooks/outs/`.
 This project is not maintained. Software is provided as is and requests for support may not be addressed.
 
 ## Contact
-If you have questions or comments, please contact Felix Horns at rfhorns@gmail.com.
+If you have questions or comments, please contact Felix Horns at <rfhorns@gmail.com>.

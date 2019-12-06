@@ -1,5 +1,4 @@
 # SingleBCell-FluVaccine
----
 
 Analysis workflows for Horns et al. bioRxiv 2019.
 
@@ -8,7 +7,7 @@ These workflows were used to analyze the molecular, cellular, and population fea
 This repository contains Jupyter Notebooks that reproduce the figures shown in the paper.
 
 ## Configuration
----
+
 ### Environment
 Python 2.7 is the primary environment. Python 3.7 is used for one notebook, `Transcriptome.ipynb`, which requires Scanpy. Both environments are specified by YAML files in the repository, which can be used to create an environment using Anaconda.
 
@@ -16,7 +15,6 @@ Python 2.7 is the primary environment. Python 3.7 is used for one notebook, `Tra
 Preprocessed data are used as inputs for these notebooks. They are available for download via Google Drive at XXX. The notebooks expect the data files to be found in the `data/` directory.
 
 ## Contents
----
 
 ### `notebooks`
 
@@ -37,9 +35,7 @@ Each notebook is roughly associated with one or a few figures from the paper.
 Graphical outputs are written by default to `notebooks/outs/`.
 
 ## Disclaimer
----
 This project is not maintained. Software is provided as is and requests for support may not be addressed.
 
 ## Contact
----
 If you have questions or comments, please contact Felix Horns at rfhorns@gmail.com.

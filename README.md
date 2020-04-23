@@ -1,10 +1,14 @@
 # SingleBCell-FluVaccine
 
-Analysis workflows for Horns et al. bioRxiv 2019.
+Analysis workflows for Horns et al. Cell Reports 2020.
 
-These workflows were used to analyze the molecular, cellular, and population features of human B cells during the memory response to influenza vaccination. Data were collected using single-cell transcriptional profiling, single-cell paired heavy-light chain antibody sequencing (10X Genomics), antibody repertoire sequencing, and traditional antibody binding measurements (ELISA and biolayer interferometry). Results were published on bioRxiv in 2019 (https://www.biorxiv.org/content/10.1101/709337v1).
+These workflows were used to analyze the molecular, cellular, and population features of human B cells during the memory response to influenza vaccination. Data were collected using single-cell transcriptional profiling, single-cell paired heavy-light chain antibody sequencing (10X Genomics), antibody repertoire sequencing, and traditional antibody binding measurements (ELISA and biolayer interferometry). Results were published on bioRxiv in 2019 (https://www.biorxiv.org/content/10.1101/709337v1), and in Cell Reports in 2020 (https://pubmed.ncbi.nlm.nih.gov/31968262/).
 
 This repository contains Jupyter Notebooks that reproduce the figures shown in the paper.
+
+## Citation
+
+F Horns, CL Dekker, SR Quake, "Memory B Cell Activation, Broad Anti-influenza Antibodies, and Bystander Activation Revealed by Single-Cell Transcriptomics." Cell Reports, 30(3), 905-913 (2020).
 
 ## Configuration
 

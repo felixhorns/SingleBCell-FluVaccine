@@ -54,6 +54,8 @@ Graphical outputs are written by default to `notebooks/outs/`.
 
 `cell_annotations_dynamics.tsv`: Annotation of cells detected by single-cell sequencing with their clone dynamics (as measured by antibody repertoire sequencing).
 
+`cell_annotations_labels.csv`: Annotation of cells detected by single-cell sequencing with their cell types or states (as defined by transcriptome profiles).
+
 `cell_ranger_metrics_summary.csv`: Summary metrics describing sequencing quality and various characteristics of detected single cells (output from 10X Genomics cellranger).
 
 `clone_annotations_RepSeq.tsv`: Annotation of the molecular features of each B cell clone identified by antibody repertoire sequencing (VDJ gene usage).
